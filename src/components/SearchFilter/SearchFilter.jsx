@@ -5,9 +5,9 @@ export const SearchFilter = ({value, onChange }) => {
     return (
     <>
       <Input type="text" 
-      value={value}
-      onChange={onChange}/>
-    </>
+        value={value}
+        onChange={onChange}/>
+      </>
     )
 };
 
